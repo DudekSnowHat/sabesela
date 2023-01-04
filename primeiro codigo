@@ -1,0 +1,11 @@
+#include <iostream> 
+int main ()
+{
+  std::count << "insira oque desejar " << std::endl;
+  
+  system (pause);
+    return 0;
+    
+    //bom isso se trata de uma coisa bem simples para voce que não sabe absolutamente nada mas desejas aprender alguns fundamentos de C++
+    // att
+    
